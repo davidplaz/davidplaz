@@ -1,14 +1,13 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 
-Hi 👋 My name is David
-======================
+### :man_technologist: &nbsp;About Me :
 
-SRE Engineer
-------------
+- 💻 I'm a SRE Engineer
+- 🌍 Based in Madrid
+- 🚀 Currently working on [Tuio](https://tuio.com)
 
-* 🌍  I'm based in Madrid
-* 🚀  I'm currently working on [Tuio](http://tuio.com)
+---
 
 ### 🛠 &nbsp;Languages and Tools:
 
@@ -22,6 +21,8 @@ SRE Engineer
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" /></a>&nbsp;
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux" /></a>&nbsp;
 </p>
+
+---
 
 ### 🔥 &nbsp;My Stats:
 
